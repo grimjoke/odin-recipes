@@ -6,8 +6,8 @@
 
 Iteration 1: Initial structure
 
--[ ]    Within the odin-recipes directory, create an index.html file.
--[ ]    Fill it out with the usual boilerplate HTML and add an h1 heading “Odin Recipes” to the body.
+-[x]    Within the odin-recipes directory, create an index.html file.
+-[x]    Fill it out with the usual boilerplate HTML and add an h1 heading “Odin Recipes” to the body.
 
 Iteration 2: Recipe Page
 
